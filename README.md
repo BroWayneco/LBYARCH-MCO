@@ -36,10 +36,10 @@
     Average Time in Assembly:0.856406
     Average Time in C: 3.125767
 <p align=center>---------- RELEASE ----------</p>
-<img width="876" alt="30r" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/8d79550c-1b02-4e27-aa68-88a003983d3c">
+<img width="876" alt="30r" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/b6af601b-1add-4bec-b27e-04f93f55af79">
 
-    Average Time in Assembly: 1.278967
-    Average Time inC:0.784633
+    Average Time in Assembly:2.348700
+    Average Time in C:1.704533
 
 <h2>Short Analysis of the Performance of the Kernel</h2>
 
