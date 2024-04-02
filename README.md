@@ -7,36 +7,36 @@
 
 <h3>i.) Power of 20</h3>
 <p align=center>---------- DEBUG ----------</p>
-<img width="876" alt="20d" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/0673738a-36a9-42d4-9fd6-b20c44c67956">
+<img width="876" alt="20d" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/ef912557-b7be-40c7-a629-5830a676db9c">
 
     Average Time in Assembly:0.000867
     Average Time in C:0.003167
 <p align=center>---------- RELEASE ----------</p>
-<img width="876" alt="20r" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/15868a19-423c-4562-9f76-35295decaa3f">
+<img width="876" alt="20r" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/53ac3228-e559-4804-bd10-8582badee335">
 
     Average Time in Assembly:0.001000
     Average Time in C:0.000833
 
 <h3>i.) Power of 24</h3>
 <p align=center>---------- DEBUG ----------</p>
-<img width="876" alt="24d" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/3cfe4f69-a81e-4441-8eff-0f66d582abe6">
+<img width="876" alt="24d" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/bd4bedf3-aa15-4544-86dc-c9802a28bb4c">
 
     Average Time in Assembly:0.013133
     Average Time in C:0.049433
 <p align=center>---------- RELEASE ----------</p>
-<img width="876" alt="24r" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/984e0a3a-28fe-4eba-a0e1-4af54fdacc5f">
+<img width="876" alt="24r" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/707b1c0f-2043-4b8d-a681-98f0482cd22d">
 
     Average Time in Assembly:0.012767
     Average Time inC:0.012667
 
 <h3>i.) Power of 30</h3>
 <p align=center>---------- DEBUG ----------</p>
-<img width="876" alt="30d" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/85e5672d-8233-42d2-bed2-d335e6f35eb8">
+<img width="876" alt="30d" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/703008ef-40f7-442b-aba6-583bfba808b3">
 
     Average Time in Assembly:0.856406
     Average Time in C: 3.125767
 <p align=center>---------- RELEASE ----------</p>
-<img width="876" alt="30r" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/ff6d8858-7e13-4809-abaf-f4b8114ce795">
+<img width="876" alt="30r" src="https://github.com/BroWayneco/LBYARCH-MCO/assets/72311925/8d79550c-1b02-4e27-aa68-88a003983d3c">
 
     Average Time in Assembly: 1.278967
     Average Time inC:0.784633
